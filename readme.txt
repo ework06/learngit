@@ -1,4 +1,8 @@
 it is a test
 
 
-git is better
+<<<<<<< HEAD
+git is good
+=======
+git is good
+>>>>>>> se
